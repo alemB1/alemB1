@@ -3,7 +3,7 @@
 I'm 21 years old student at FIT Mostar, trying to learn as much as possible about everything related to IT. I love meeting like-minded people and learning new things from them and improving my current skillset. Currently I'm looking into the whole process of writing fullstack web apps.
 
 ## Current skills
-[![My Skills](https://skillicons.dev/icons?i=cpp,cs,html,css,js,react,python,selenium,linux,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,js,react,python,selenium,linux,mysql)](https://skillicons.dev)
 
 * My current goal is to learn as much as I can about React.js and Node.js stack
 * I'm currently learning React
