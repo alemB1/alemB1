@@ -1,8 +1,5 @@
 ### Hi there 👋, I'm Alem :D
 
-<!--
-**alemB1/alemB1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I'm 21 years old student at FIT Mostar, trying to learn as much as possible about everything related to IT. I love meeting like-minded people and learning new things from them and improving my current skillset. Currently I'm looking into the whole process of writing fullstack web apps.
 
 ## Current skills
