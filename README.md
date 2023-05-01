@@ -10,4 +10,4 @@ I'm 21 years old student at FIT Mostar, trying to learn as much as possible abou
 * I'm looking for help with Kali Linux and things related to penetration testing
 * You can reach me via my mail alem.belko@edu.fit.ba
 * Fun fact about me: I have been playing the electric guitar for about 5 years now, and I enjoy spending time either in the gym or jamming to my favourite songs :D
-
+* Currently working on a fullstack React and Node app
